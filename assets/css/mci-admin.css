@@ -1,0 +1,5 @@
+.mci_horizontal_list ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
